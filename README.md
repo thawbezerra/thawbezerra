@@ -9,7 +9,7 @@
   <img align="center" alt="Thaw-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thaw-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thaw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img width="50" align="right" alt="Thaw-joinha" src="https://c.tenor.com/E4RpH1xX4bgAAAAC/cool-computer.gif">
+  <img width="100" align="right" alt="Thaw-joinha" src="https://c.tenor.com/E4RpH1xX4bgAAAAC/cool-computer.gif">
 </div>
   
   ##
